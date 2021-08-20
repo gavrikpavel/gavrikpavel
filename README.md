@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gavrikpavel
-- 👀 I’m interested in webdev (PHP, Vue, Quasar)
-- 🌱 I’m currently learning Quasar
+- 👀 I’m interested in webdev (Yii2, Vue, React, Quasar, Framer)
+- 🌱 I’m currently learning Quasar, Framer
 
 <!---
 gavrikpavel/gavrikpavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
